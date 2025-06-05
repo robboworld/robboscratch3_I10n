@@ -469,6 +469,7 @@
 	"gui.RobboGui.differ_firm_msg": "Текущая версия прошивки устройства отличается от требуемой",
 	"gui.RobboGui.cr_firm_msg": " (текущая версия: {current_firmware} требуемая версия: {required_firmware}).",
 	"gui.RobboGui.device_lost": "Потеряна связь с устройством.",
+    "gui.RobboGui.OttoPalette.otto":"Танцующий робот",
 	"gui.RobboGui.OttoPalette.sound_level": "Уровень звука: ",
 	"gui.RobboGui.OttoPalette.distance":"Расстояние: ",
 	"gui.RobboGui.QuadcopterPalette.meters": "метров",
@@ -476,7 +477,7 @@
 	"gui.RobboGui.devices_not_found": "Не обнаружены доступные для подключения usb устройства. Если вы подсоединили устройство, но всё равно видите это сообщение, попробуйте поменять провод или usb разъём.",
 	"gui.RobboGui.bluetooth_devices_not_found": "Не обнаружены доступные для подключения блютуз устройства. Обратитесь к инструкции пользователя (FAQ).",
 	"gui.RobboGui.bluetooth_searching":"Ищем блютуз устройства",
-	"gui.FirmwareFlasherDeviceComponent.device_otto": "Отто",
+	"gui.FirmwareFlasherDeviceComponent.device_otto": "Танцующий робот",
 	"gui.FirmwareFlasherDeviceComponent.device_arduino": "Ардуино",
 	"gui.FirmwareFlasherDeviceComponent.flashing_device": "Прошиваем...",
 	"gui.RobboGui.differ_firm_msg_device_maybe_incorrect": "Возможна некорректная работа устройства.",
@@ -508,7 +509,12 @@
 
 	"gui.dca.for_bluetooth": "Настройки таймаутов для подключения по блютуз: ",
 	"gui.RobboGui.intervals_for_blocks_chain": "Настройки интервалов выполнения цепочки блоков: ",
-	"gui.dca.for_usb": "Настройки таймаутов для подключения через serialport: "
+	"gui.dca.for_usb": "Настройки таймаутов для подключения через serialport: ",
+
+    "gui.RobboGui.settings_window.motor_settings_tittle": "Настройки моторов Робоплатформы: ",
+    "gui.RobboGui.settings_window.set_motors_invertion": "Инвертировать направление моторов",
+    "gui.RobboGui.settings_window.set_left_motor_invertion":"Инвертировать направление левого мотора",
+    "gui.RobboGui.settings_window.set_right_motor_invertion":"Инвертировать направление правого  мотора"
 	
 	
 }

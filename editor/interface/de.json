@@ -417,5 +417,148 @@
     "gui.sharedMessages.backdrop": "Bühnenbild{index}",
     "gui.sharedMessages.costume": "Kostüm{index}",
     "gui.sharedMessages.sprite": "Figur{index}",
-    "gui.sharedMessages.pop": "Plopp"
+    "gui.sharedMessages.pop": "Plopp",
+
+
+    "gui.RobboGui.search_devices": "Gerätesuche",
+    "gui.menuBar.robbo_menu": "Robbo-Menü",
+
+    "gui.SearchPanel.error": "Fehler!",
+    "gui.SearchPanel.device_connected": "Das Gerät ist angeschlossen",
+    "gui.SearchPanel.device_checking_serial": "Überprüfung der Seriennummer...",
+    "gui.SearchPanel.device_no_response": "Unbekanntes Gerät gefunden",
+    "gui.SearchPanel.device_no_response_details": "Firmware muss aktualisiert werden",
+    "gui.SearchPanel.device_no_response_alert_details": "An den Port {device_port} ist ein Gerät angeschlossen, das von Robbo Scratch nicht erkannt werden kann. Das Gerät verfügt wahrscheinlich über keine Firmware oder es wurde eine nichtstandardgerechte Firmware heruntergeladen. Möchten Sie die standardgerechte Firmware Robbo Scratch 3 herunterladenladen?",
+    "gui.SearchPanel.device_connection_lost":"Verbindung mit dem Gerät ist verloren.",
+    "gui.SearchPanel.device_port_error": "Portfehler!",
+    "gui.SearchPanel.milliseconds": " ms (Millisekunden)",
+    "gui.SearchPanel.bluetooth_linux_hint": "Aufgrund der Besonderheit des Linux-Geräts muss Robbo Scratch mit Root-Benutzerrechten ausgeführt werden.",
+    "gui.SearchPanel.flashing_in_progress": "Achtung!",
+    "gui.SearchPanel.flashing_in_progress_details":"Firmware-Installationsprozess läuft",
+    "gui.SearchPanel.device_try_to_reconnect": "Versuchen Sie das Gerät erneut anzuschließen. Oder verwenden Sie einen anderen USB-Anschluss.",
+    "gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Der Bluetooth-Port kann nicht geöffnet werden.  Wahrscheinlich ist dieser Port nach der vorherigen Verbindung über Bluetooth geblieben. Bitte entfernen Sie alte Geräte aus der Liste der Bluetooth-Geräte.",
+    "gui.SearchPanel.try_connect_to_port": "Verbindung mit dem Port wird herstellt...",
+    "gui.SearchPanel.port_opened": "Der Port ist offen",
+    "gui.RobboGui.devices_not_found": "Es wurden keine für den Anschluß verfügbaren USB-Geräte gefunden. Wenn Sie das Gerät angeschlossen haben, und diese Meldung jedoch weiterhin angezeigt wird, ändern Sie den Kabel- oder USB-Anschluß.",
+    "gui.RobboGui.bluetooth_devices_not_found": "Es wurden keine für die Verbindung verfügbaren Bluetooth-Geräte gefunden. Bitte schlagen Sie im Benutzerhandbuch (FAQ) nach.",
+    "gui.RobboGui.bluetooth_searching":"Suche nach Bluetooth-Geräten",
+
+    "gui.FirmwareFlasherFlashingStatusComponent.close_window": "Fenster schließen",
+    "gui.FirmwareFlasherDeviceComponent.device_robot": "Roboter",
+    "gui.FirmwareFlasherDeviceComponent.device_lab": "Labor",
+    "gui.FirmwareFlasherDeviceComponent.device_unknown": "Nicht erkanntes Gerät",
+    "gui.FirmwareFlasherDeviceComponent.flash_device": "Firmware auf das Gerät installieren",
+    "gui.FirmwareFlasherDeviceComponent.flash_device_question": "Möchten Sie die Firmware auf das Gerät installieren?",
+    "gui.FirmwareFlasherComponent.get_devices_info": "Satamahaku",
+    "gui.FirmwareFlasherComponent.device_name": "Laitetyyppi",
+    "gui.FirmwareFlasherComponent.device_port": "Portti",
+    "gui.FirmwareFlasherComponent.device_firmware": "Laitteen laiteohjelmisto",
+    "gui.FirmwareFlasherComponent.device_serial": "Laitteen sarjanumero",
+    "gui.RobboGui.update_firm_msg": "Bitte aktualisieren Sie die Firmware.",
+    "gui.RobboGui.differ_firm_msg": "Die aktuelle Firmware-Version des Geräts unterscheidet sich von der erforderlichen",
+    "gui.RobboGui.cr_firm_msg": "(aktuelle Version: {current_firmware} erforderliche Version: {required_firmware}).",
+    "gui.RobboGui.device_lost": "Yhteys laitteeseen katkennut.",   
+    "gui.FirmwareFlasherDeviceComponent.device_otto": "Otto",
+    "gui.FirmwareFlasherDeviceComponent.device_arduino": "Arduino",
+    "gui.FirmwareFlasherDeviceComponent.flashing_device": "Wir installieren Firmware…",
+    "gui.RobboGui.differ_firm_msg_device_maybe_incorrect": "Möglicherweise kann das Gerät nicht richtig funktionieren.",
+   
+    "gui.FirmwareFlasherFlashingStatusComponent.flashing_status": "Firmware-Prozessprotokoll",
+
+
+  
+    
+    "gui.RobboGui.profiler_window": "",
+    "gui.RobboGui.about_window": "Über das Programm",
+    "gui.RobboGui.start_profiling": "Die Leistungsmessung einschalten",
+    "gui.RobboGui.stop_profiling": "Die Leistungsmessung ausschalten",
+    "gui.RobboGui.step_duration": "Gesamtausführungszeit einer Blockkette (in ms):",
+    "gui.RobboGui.recieve_delta": "Die Verzögerung zwischen dem Empfang eines vollständigen Datenpakets (in ms)",
+    "gui.RobboGui.average_step_delay_time": "Durchschnittliche Verzögerungszeit zwischen Iterationen der Ausführung einer Blockkette (in ms):",
+    "gui.RobboGui.os_name_and_version": "Betriebssystem:",
+    "gui.RobboGui.arch": "Architektur:",
+    "gui.RobboGui.cpu": "Prozessor:",
+    "gui.RobboGui.copy_to_clipboard": "In die Zwischenablage kopieren",
+
+
+
+    "gui.RobboGui.settings_window": "Einstellungen",
+    "gui.RobboGui.intervals_for_blocks_chain": "Einstellungen der Intervalle für die Ausführung einer Blockkette:",
+    "gui.RobboGui.fullscreen_interval": "Ausführungsintervall einer Blockkette im Vollbildmodus (1–500) (in ms):",
+    "gui.RobboGui.normal_mode_interval": "Ausführungsintervall einer Blockkette im Normalmodus (1–500) (in ms):",
+    "gui.RobboGui.save_settings": "Einstellungen speichern",
+    "gui.dca.no_response_time": "Zeitlimit für die Geräteantwort (in ms)",
+    "gui.dca.no_start_timeout": "Zeitlimit für das erste Datenpaket (in ms)",
+    "gui.dca.device_handle_timeout": "Gesamte Suchzykluszeit (in ms)",
+
+    "gui.dca.uno_timeout": "Die Zeit der Umschaltung in den Scratchduino-Suchmodus (in ms)",
+    "gui.dca.no_response_time_bluetooth": "Zeitlimit für die Geräteantwort (in ms)",
+    "gui.dca.no_start_timeout_bluetooth": "Zeitlimit für das erste Datenpaket (in ms)",
+    "gui.dca.device_handle_timeout_bluetooth": "Gesamte Suchzykluszeit (in ms)",
+
+
+    "gui.dca.uno_timeout_bluetooth": "Die Zeit der Umschaltung in den Scratchduino-Suchmodus (in ms).",
+    "gui.dca.for_bluetooth": "Einstellungen der Zeitsperren für die Bluetooth-Verbindung:",
+    "gui.dca.for_usb": "Einstellungen der Zeitsperren für die Verbindung über den Serialport: ",
+
+
+ 
+    "gui.RobboMenu.extension_pack": "Laajennettu robotti-antureiden sarja",
+    "gui.RobboMenu.lab_ext_sensors": "Laboratorion ulkoiset anturit",
+    "gui.RobboMenu.trigger_logging": "Vaihda kirjaamista",
+    "gui.RobboMenu.sim_enable": "Ota robotin simulointi käyttöön",
+    "gui.RobboMenu.extension_pack_enable": "Einen erweiterten Satz von Robotersensoren einschalten",
+    "gui.RobboMenu.extension_pack_disable": "Einen erweiterten Satz von Robotersensoren ausschalten",
+    "gui.RobboMenu.lab_ext_sensors_enable": "Externe Laborsensoren einschalten",
+    "gui.RobboMenu.lab_ext_sensors_disable": "Externe Laborsensoren ausschalten",
+    "gui.RobboMenu.color_sensor_correction1": "Korrekturtabelle Farbsensor 1",
+    "gui.RobboMenu.color_sensor_correction2": "Korrekturtabelle Farbsensor 2",
+    "gui.RobboMenu.color_sensor_correction3": "Korrekturtabelle Farbsensor 3",
+    "gui.RobboMenu.color_sensor_correction4": "Korrekturtabelle Farbsensor 4",
+    "gui.RobboMenu.color_sensor_correction5": "Korrekturtabelle Farbsensor 5",
+    "gui.RobboMenu.trigger_settings_window": "Einstellungen",
+    "gui.RobboMenu.trigger_about_window": "Über das Programm",
+    "gui.RobboMenu.trigger_firmware_flasher": "Reflash laite",
+
+
+    "gui.ColorCorrectorTable.auto_correction": "Autokorrektur",
+    "gui.ColorCorrectorTable.showAdvOpt": "Erweiterte Optionen anzeigen",
+    "gui.ColorCorrectorTable.showMaximallyAdvOpt": "Maximal erweiterte Optionen anzeigen",
+    "gui.ColorCorrectorTable.close": "Schließen",
+    "gui.ColorCorrectorTable.load": "Herunterladen",
+    "gui.ColorCorrectorTable.save": "Speichern",
+    "gui.ColorCorrectorTable.apply_changes": "Änderungen übernehmen",
+
+    "gui.RobboGui.RobotPalette.sensor": "Sensor",
+    "gui.RobboGui.RobotPalette.path_left": "Schrittzähler des linken Motors: ",
+    "gui.RobboGui.RobotPalette.path_right": "Schrittzähler des rechten Motors: ",
+    "gui.RobboGui.RobotPalette.start_button_pushed": "Startknopf: ",
+    "gui.RobboGui.RobotPalette.robot": "Roboter",
+    "gui.RobboGui.true": "Richtig",
+    "gui.RobboGui.false": "Falsch",
+
+    "gui.RobboGui.LaboratoryPalette.button": "Knopf  ",
+    "gui.RobboGui.LaboratoryPalette.light": "Licht: ",
+    "gui.RobboGui.LaboratoryPalette.sound": "Ton: ",
+    "gui.RobboGui.LaboratoryPalette.analog": "Analog: ",
+    "gui.RobboGui.LaboratoryPalette.slider": "Hebel: ",
+    "gui.RobboGui.LaboratoryPalette.digital": "Digital: ",
+    "gui.RobboGui.LaboratoryPalette.laboratory": "Labor",
+
+    "gui.RobboGui.QuadcopterPalette.battery_level": "Batterieladezustand: ",
+    "gui.RobboGui.QuadcopterPalette.yaw": "Winkel: ",
+    "gui.RobboGui.QuadcopterPalette.x_coord": "X-Koordinate: ",
+    "gui.RobboGui.QuadcopterPalette.y_coord":"Y-Koordinate: ",
+    "gui.RobboGui.QuadcopterPalette.z_coord": "Z-Koordinate:  ",
+    "gui.RobboGui.QuadcopterPalette.quadcopter": "Quadrocopter",
+    "gui.RobboGui.QuadcopterPalette.meters": "Meter",
+    "gui.RobboGui.QuadcopterPalette.degrees": "Grad",
+
+    "gui.RobboGui.OttoPalette.otto": "Otto",
+    "gui.RobboGui.OttoPalette.sound_level": "Schallpegel:",
+    "gui.RobboGui.OttoPalette.distance": "Entfernung:",
+
+    "gui.RobboGui.ArduinoPalette.arduino": "Arduino"
+
+
 }
