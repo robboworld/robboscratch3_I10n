@@ -495,6 +495,12 @@
 	"gui.SearchPanel.flashing_in_progress_details":"Flashing in progress",
 	"gui.SearchPanel.device_try_to_reconnect": "Try to reconnect the device. Or use another usb connector.",
 	"gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Can't open a Bluetooth port. Probably this port remained after the previous connection on Bluetooth. Please, remove the old devices from the list of Bluetooth devices.",
+	"gui.SearchPanel.bluetooth_error_274C": "Failed to establish connection. The device may be unavailable, already connected to another device, or there is a network problem. (0x274C)",
+	"gui.SearchPanel.bluetooth_error_274D": "Connection rejected by device. (0x274D)",
+	"gui.SearchPanel.bluetooth_error_2711": "Device not found or unavailable. (0x2711)",
+	"gui.SearchPanel.bluetooth_error_2740": "Device is already connected to another device. Try disconnecting the device and connecting again. (0x2740)",
+	"gui.SearchPanel.bluetooth_error_connection": "Failed to connect to Bluetooth device. Make sure the device is turned on and available for connection.",
+	"gui.SearchPanel.bluetooth_error_already_connected": "Device is already connected. Try disconnecting the device and connecting again.",
 	"gui.SearchPanel.try_connect_to_port": "Trying to connect to the port...",
 	"gui.SearchPanel.port_opened": "The port is open",
 
