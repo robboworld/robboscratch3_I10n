@@ -594,16 +594,16 @@
 "gui.RobboGui.devices_not_found": "Устройств не найдено",
 "gui.RobboGui.profiler_window": "",
 "gui.RobboGui.about_window": "О программе",
-"gui.RobboGui.copy_to_clipboard": "Скопировать в буффер обмена",
+"gui.RobboGui.copy_to_clipboard": "Скопировать в буфер обмена",
 "gui.RobboGui.start_profiling": "Время полного выполнения цепочки блоков (в мс)",
 "gui.RobboGui.stop_profiling": "Задержка между получением полного пакета телеметрии (в мс):",
 "gui.RobboGui.step_duration": "Среднее время задержки между итерациями выполнения цепочки блоков (в мс):",
 "gui.RobboGui.recieve_delta": "",
 "gui.RobboGui.average_step_delay_time": "",
 "gui.RobboGui.os_name_and_version": "Операционная система",
-"gui.RobboGui.copy_to_clipboard": "Скопировать в буффер обмена",
+"gui.RobboGui.copy_to_clipboard": "Скопировать в буфер обмена",
 "gui.RobboGui.arch": "Архитектура",
-"gui.RobboGui.copy_to_clipboard": "Скопировать в буффер обмена",
+"gui.RobboGui.copy_to_clipboard": "Скопировать в буфер обмена",
 "gui.RobboGui.cpu": "Процессор",
-"gui.RobboGui.copy_to_clipboard": "Скопировать в буффер обмена"
+"gui.RobboGui.copy_to_clipboard": "Скопировать в буфер обмена"
 }
