@@ -502,6 +502,8 @@
 	"gui.SearchPanel.otto_flash_nulllab": "Null Lab",
 	"gui.SearchPanel.otto_flash_auto": "Auto",
 	"gui.SearchPanel.otto_flash_version_unchanged_try_arduino": "Version unchanged. Try flashing as Arduino?",
+	"gui.SearchPanel.otto_flash_retry_arduino_log": "Version unchanged. Flashing as Arduino…",
+	"gui.SearchPanel.firmware_verify_failed_try_again": "Firmware was not updated. Try again?",
 	"gui.SearchPanel.device_try_to_reconnect": "Try to reconnect the device. Or use another usb connector.",
 	"gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Can't open a Bluetooth port. Probably this port remained after the previous connection on Bluetooth. Please, remove the old devices from the list of Bluetooth devices.",
 	"gui.SearchPanel.bluetooth_error_274C": "Failed to establish connection. The device may be unavailable, already connected to another device, or there is a network problem. (0x274C)",

@@ -501,6 +501,8 @@
 	"gui.SearchPanel.otto_flash_nulllab": "Null Lab",
 	"gui.SearchPanel.otto_flash_auto": "Авто",
 	"gui.SearchPanel.otto_flash_version_unchanged_try_arduino": "Версия не изменилась. Попробовать прошить как Arduino?",
+	"gui.SearchPanel.otto_flash_retry_arduino_log": "Версия не изменилась. Прошиваем как Arduino…",
+	"gui.SearchPanel.firmware_verify_failed_try_again": "Прошивка не обновилась. Попробовать снова?",
 	"gui.SearchPanel.device_try_to_reconnect": "Попробуйте переподключить устройство. Или использовать другой usb разъём.",
 	"gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Не удаётся открыть блютуз порт. Вероятно этот порт остался после предыдущего подключения по блютуз. Пожалуйста, удалите старые устройства из списка блютуз устройств.",
 	"gui.SearchPanel.bluetooth_error_274C": "Не удалось установить соединение. Устройство может быть недоступно, уже подключено к другому устройству, или возникла проблема с сетью. (0x274C)",
