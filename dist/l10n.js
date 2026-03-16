@@ -1049,6 +1049,15 @@ var locales = {
   },
   'zh-tw': {
     name: '繁體中文'
+  },
+  'uz': {
+    name: 'Oʻzbekcha'
+  },
+  'hy': {
+    name: 'Հայերեն'
+  },
+  'ka': {
+    name: 'ქართული'
   }
 };
 var customLocales = {

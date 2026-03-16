@@ -57,7 +57,11 @@ const locales = {
     'tr': {name: 'Türkçe'},
     'uk': {name: 'Українська'},
     'zh-cn': {name: '简体中文'},
-    'zh-tw': {name: '繁體中文'}
+    'zh-tw': {name: '繁體中文'},
+    'uz': {name: 'Oʻzbekcha'},
+    'hy': {name: 'Հայերեն'},
+    'ka': {name: 'ქართული'},
+    'kk': {name: 'Қазақша'}
 };
 
 const customLocales = {
