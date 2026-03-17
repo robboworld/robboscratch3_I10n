@@ -1058,6 +1058,9 @@ var locales = {
   },
   'ka': {
     name: 'ქართული'
+  },
+  'kk': {
+    name: 'Қазақша'
   }
 };
 var customLocales = {

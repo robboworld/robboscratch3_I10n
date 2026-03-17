@@ -481,6 +481,7 @@
 	"gui.RobboGui.devices_not_found": "Қосылатын құрылғы жоқ. Құрылғыны қосқан болсаңыз, басқа кабель немесе USB портын көріңіз.",
 	"gui.RobboGui.bluetooth_devices_not_found": "Bluetooth құрылғылары жоқ. Пайдаланушы нұсқаулығына (FAQ) жүгініңіз.",
 	"gui.RobboGui.bluetooth_searching": "Bluetooth құрылғыларын іздеу",
+	"gui.RobboGui.try_to_install_drivers": "USB портының драйверлерін орнатыңыз немесе жаңартыңыз.",
 	"gui.FirmwareFlasherDeviceComponent.device_otto": "Otto",
 	"gui.FirmwareFlasherDeviceComponent.device_arduino": "Arduino",
 	"gui.FirmwareFlasherDeviceComponent.device_quadcopter": "Квадрокоптер",
@@ -509,6 +510,7 @@
 	"gui.SearchPanel.otto_flash_retry_arduino_log": "Нұсқа өзгермеді. Arduino ретінде жазылуда…",
 	"gui.SearchPanel.firmware_verify_failed_try_again": "Прошивка жаңартылмады. Қайта көру керек пе?",
 	"gui.SearchPanel.device_try_to_reconnect": "Құрылғыны қайта қосыңыз немесе басқа USB портын пайдаланыңыз.",
+	"gui.SearchPanel.device_reconnecting": "Байланыс үзілді, қайта қосу әрекеті",
 	"gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Bluetooth портын ашу мүмкін емес. Bluetooth құрылғылар тізімінен ескі құрылғыларды өшіріңіз.",
 	"gui.SearchPanel.bluetooth_error_274C": "Байланыс орнату сәтсіз. Құрылғы қолжетімсіз, басқа құрылғыға қосылған немесе желі мәселесі бар болуы мүмкін. (0x274C)",
 	"gui.SearchPanel.bluetooth_error_274D": "Құрылғы байланысты қабылдамады. (0x274D)",
@@ -540,6 +542,8 @@
 
 
 	"gui.RobboGui.settings_window": "Параметрлер",
+	"gui.RobboGui.settings_window.simulation_section": "Симуляция",
+	"gui.RobboGui.settings_window.sim_robot_bounds_enabled": "Сцена шекаралары (2D симулятор)",
 	"gui.RobboGui.settings_window.firmware_section": "Прошивка",
 	"gui.RobboGui.settings_window.firmware_common_subsection": "Жалпы (барлық құрылғылар)",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Мотор параметрлері: ",

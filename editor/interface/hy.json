@@ -480,7 +480,8 @@
 
 	"gui.RobboGui.devices_not_found": "No devices available for connection. If you have connected the device, but still see this message, try changing the wire or USB connector.",
 	"gui.RobboGui.bluetooth_devices_not_found": "No bluetooth devices available for connection. Please, refer to the user manual (FAQ).",
-	"gui.RobboGui.bluetooth_searching":"Looking for Bluetooth devices",
+	"gui.RobboGui.bluetooth_searching": "Looking for Bluetooth devices",
+	"gui.RobboGui.try_to_install_drivers": "Try installing or updating USB port drivers.",
 	"gui.FirmwareFlasherDeviceComponent.device_otto": "Otto",
 	"gui.FirmwareFlasherDeviceComponent.device_arduino": "Arduino",
 	"gui.FirmwareFlasherDeviceComponent.device_quadcopter": "Quadcopter",
@@ -509,6 +510,7 @@
 	"gui.SearchPanel.otto_flash_retry_arduino_log": "Version unchanged. Flashing as Arduino…",
 	"gui.SearchPanel.firmware_verify_failed_try_again": "Firmware was not updated. Try again?",
 	"gui.SearchPanel.device_try_to_reconnect": "Try to reconnect the device. Or use another usb connector.",
+	"gui.SearchPanel.device_reconnecting": "Connection lost, attempting to reconnect",
 	"gui.SearchPanel.device_cannot_open_old_bluetooth_com": "Can't open a Bluetooth port. Probably this port remained after the previous connection on Bluetooth. Please, remove the old devices from the list of Bluetooth devices.",
 	"gui.SearchPanel.bluetooth_error_274C": "Failed to establish connection. The device may be unavailable, already connected to another device, or there is a network problem. (0x274C)",
 	"gui.SearchPanel.bluetooth_error_274D": "Connection rejected by device. (0x274D)",
@@ -541,6 +543,7 @@
 
 	"gui.RobboGui.settings_window": "Settings",
 	"gui.RobboGui.settings_window.simulation_section": "Սիմուլյացիա",
+	"gui.RobboGui.settings_window.sim_robot_bounds_enabled": "Կադրի սահմաններ (2D սիմուլյատոր)",
 	"gui.RobboGui.settings_window.firmware_section": "Firmware",
 	"gui.RobboGui.settings_window.firmware_common_subsection": "Common (all devices)",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Motor settings: ",
