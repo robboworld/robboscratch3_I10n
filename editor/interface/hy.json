@@ -540,6 +540,7 @@
 
 
 	"gui.RobboGui.settings_window": "Settings",
+	"gui.RobboGui.settings_window.simulation_section": "Սիմուլյացիա",
 	"gui.RobboGui.settings_window.firmware_section": "Firmware",
 	"gui.RobboGui.settings_window.firmware_common_subsection": "Common (all devices)",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Motor settings: ",

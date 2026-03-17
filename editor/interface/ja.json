@@ -534,6 +534,7 @@
     "gui.RobboMenu.trigger_settings_window": "設定",
     "gui.RobboMenu.trigger_about_window": "ロッボスクラッチについて",
     "gui.RobboGui.settings_window": "設定",
+    "gui.RobboGui.settings_window.simulation_section": "シミュレーション",
     "gui.RobboGui.settings_window.firmware_section": "ファームウェア",
     "gui.RobboGui.settings_window.firmware_common_subsection": "共通（すべてのデバイス）",
     "gui.RobboGui.settings_window.motor_settings_tittle": "モーター設定: ",

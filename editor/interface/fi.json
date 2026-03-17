@@ -534,6 +534,7 @@
     "gui.RobboMenu.trigger_settings_window": "Asetukset",
     "gui.RobboMenu.trigger_about_window": "Tietoja",
     "gui.RobboGui.settings_window": "Asetukset",
+    "gui.RobboGui.settings_window.simulation_section": "Simulointi",
     "gui.RobboGui.settings_window.firmware_section": "Firmware",
     "gui.RobboGui.settings_window.firmware_common_subsection": "Yhteinen (kaikki laitteet)",
     "gui.RobboGui.settings_window.motor_settings_tittle": "Moottoriasetukset: ",

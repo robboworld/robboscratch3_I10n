@@ -534,6 +534,7 @@
     "gui.RobboMenu.trigger_settings_window": "设置",
     "gui.RobboMenu.trigger_about_window": "关于",
     "gui.RobboGui.settings_window": "设置",
+    "gui.RobboGui.settings_window.simulation_section": "模拟",
     "gui.RobboGui.settings_window.firmware_section": "固件",
     "gui.RobboGui.settings_window.firmware_common_subsection": "通用（所有设备）",
     "gui.RobboGui.settings_window.motor_settings_tittle": "电机设置: ",
