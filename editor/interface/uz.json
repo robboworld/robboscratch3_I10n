@@ -532,6 +532,10 @@
 	"gui.RobboGui.os_name_and_version": "OS: ",
 	"gui.RobboGui.arch": "Arch: ",
 	"gui.RobboGui.cpu": "Cpu: ",
+	"gui.RobboGui.platform": "Platforma: ",
+	"gui.RobboGui.browser": "Brauzer: ",
+	"gui.RobboGui.logical_cores": "Mantiqiy yadrolar: ",
+	"gui.RobboGui.not_available_in_browser": "Brauzerda mavjud emas",
 
 	"gui.RobboMenu.extension_pack_enable": "Enable extension pack",
 	"gui.RobboMenu.extension_pack_disable": "Disable extension pack",

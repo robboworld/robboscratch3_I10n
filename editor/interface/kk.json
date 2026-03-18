@@ -532,6 +532,10 @@
 	"gui.RobboGui.os_name_and_version": "ОЖ: ",
 	"gui.RobboGui.arch": "Сәулет: ",
 	"gui.RobboGui.cpu": "Орталық процессор: ",
+	"gui.RobboGui.platform": "Платформа: ",
+	"gui.RobboGui.browser": "Браузер: ",
+	"gui.RobboGui.logical_cores": "Логикалық ядролар: ",
+	"gui.RobboGui.not_available_in_browser": "Браузерде қолжетімсіз",
 
 	"gui.RobboMenu.extension_pack_enable": "Кеңейту жинағын қосу",
 	"gui.RobboMenu.extension_pack_disable": "Кеңейту жинағын өшіру",

@@ -532,6 +532,11 @@
 	"gui.RobboGui.os_name_and_version": "OS: ",
 	"gui.RobboGui.arch": "Arch: ",
 	"gui.RobboGui.cpu": "Cpu: ",
+	"gui.RobboGui.platform": "Platform: ",
+	"gui.RobboGui.browser": "Browser: ",
+	"gui.RobboGui.logical_cores": "Logical cores: ",
+	"gui.RobboGui.not_available_in_browser": "Not available in browser",
+	"gui.RobboGui.copy_system_info": "Copy system information",
 
 	"gui.RobboMenu.extension_pack_enable": "Enable extension pack",
 	"gui.RobboMenu.extension_pack_disable": "Disable extension pack",
