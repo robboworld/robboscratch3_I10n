@@ -542,8 +542,6 @@
 
 
 	"gui.RobboGui.settings_window": "Settings",
-	"gui.RobboGui.settings_window.simulation_section": "Simulyatsiya",
-	"gui.RobboGui.settings_window.sim_robot_bounds_enabled": "Sahna chegaralari (2D simulyator)",
 	"gui.RobboGui.settings_window.firmware_section": "Firmware",
 	"gui.RobboGui.settings_window.firmware_common_subsection": "Common (all devices)",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Motor settings: ",

@@ -542,8 +542,6 @@
 
 
 	"gui.RobboGui.settings_window": "Параметрлер",
-	"gui.RobboGui.settings_window.simulation_section": "Симуляция",
-	"gui.RobboGui.settings_window.sim_robot_bounds_enabled": "Сцена шекаралары (2D симулятор)",
 	"gui.RobboGui.settings_window.firmware_section": "Прошивка",
 	"gui.RobboGui.settings_window.firmware_common_subsection": "Жалпы (барлық құрылғылар)",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Мотор параметрлері: ",

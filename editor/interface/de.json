@@ -536,8 +536,6 @@
     "gui.RobboMenu.trigger_settings_window": "Einstellungen",
     "gui.RobboMenu.trigger_about_window": "Über",
     "gui.RobboGui.settings_window": "Einstellungen",
-    "gui.RobboGui.settings_window.simulation_section": "Simulation",
-    "gui.RobboGui.settings_window.sim_robot_bounds_enabled": "Szenengrenzen (2D-Simulator)",
     "gui.RobboGui.settings_window.firmware_section": "Firmware",
     "gui.RobboGui.settings_window.firmware_common_subsection": "Allgemein (alle Geräte)",
     "gui.RobboGui.settings_window.motor_settings_tittle": "Motoreinstellungen: ",
