@@ -536,6 +536,7 @@
 	"gui.RobboGui.browser": "Браузер: ",
 	"gui.RobboGui.logical_cores": "Логикалық ядролар: ",
 	"gui.RobboGui.not_available_in_browser": "Браузерде қолжетімсіз",
+	"gui.RobboGui.copy_system_info": "Жүйе ақпаратын көшіру",
 
 	"gui.RobboMenu.extension_pack_enable": "Кеңейту жинағын қосу",
 	"gui.RobboMenu.extension_pack_disable": "Кеңейту жинағын өшіру",
@@ -584,7 +585,8 @@
 	"gui.RobboGui.ArduinoPalette.pin19": "Пин 19",
 	"gui.RobboGui.OttoPalette.otto": "Otto",
 
-	"gui.dca.no_response_time": "Құрылғы жауап күту уақыты (мс)",
+	    "gui.dca.device_connection_section": "Құрылғыны қосу",
+"gui.dca.no_response_time": "Құрылғы жауап күту уақыты (мс)",
 	"gui.dca.no_start_timeout": "Бірінші телеметрия пакеті күту уақыты (мс)",
 	"gui.dca.device_handle_timeout": "Іздеу процесі күту уақыты (мс)",
 	"gui.dca.uno_timeout": "Scratchduino іздеу режимі күту уақыты (мс)",

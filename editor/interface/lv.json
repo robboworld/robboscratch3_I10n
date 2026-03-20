@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "fons{index}",
     "gui.sharedMessages.costume": "tērps{index}",
     "gui.sharedMessages.sprite": "Gariņš{index}",
-    "gui.sharedMessages.pop": "paukšķis"
+    "gui.sharedMessages.pop": "paukšķis",
+    "gui.dca.device_connection_section": "Device connection"
 }

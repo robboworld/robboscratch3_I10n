@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "fonas{index}",
     "gui.sharedMessages.costume": "kaukė{index}",
     "gui.sharedMessages.sprite": "Veikėjas{index}",
-    "gui.sharedMessages.pop": "pokšt"
+    "gui.sharedMessages.pop": "pokšt",
+    "gui.dca.device_connection_section": "Device connection"
 }

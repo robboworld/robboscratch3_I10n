@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "háttér{index}",
     "gui.sharedMessages.costume": "jelmez{index}",
     "gui.sharedMessages.sprite": "szereplő{index}",
-    "gui.sharedMessages.pop": "pukk"
+    "gui.sharedMessages.pop": "pukk",
+    "gui.dca.device_connection_section": "Device connection"
 }

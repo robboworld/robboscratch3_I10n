@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "Indawo{index}",
     "gui.sharedMessages.costume": "Impahla{index}",
     "gui.sharedMessages.sprite": "Umlingisi{index}",
-    "gui.sharedMessages.pop": "qhumisa"
+    "gui.sharedMessages.pop": "qhumisa",
+    "gui.dca.device_connection_section": "Device connection"
 }

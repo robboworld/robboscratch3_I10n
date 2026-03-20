@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "baggrund{index}",
     "gui.sharedMessages.costume": "kostume{index}",
     "gui.sharedMessages.sprite": "Sprite{index}",
-    "gui.sharedMessages.pop": "knald"
+    "gui.sharedMessages.pop": "knald",
+    "gui.dca.device_connection_section": "Device connection"
 }

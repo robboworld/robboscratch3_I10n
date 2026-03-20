@@ -585,6 +585,7 @@
 	"gui.RobboGui.ArduinoPalette.pin19": "Pin 19",
 	"gui.RobboGui.OttoPalette.otto": "Otto",
 
+	"gui.dca.device_connection_section": "Device connection",
 	"gui.dca.no_response_time": "Device response timeout (ms)",
 	"gui.dca.no_start_timeout": "First telemetry packet timeout (ms)",
 	"gui.dca.device_handle_timeout": "Searching process timeout(ms)",

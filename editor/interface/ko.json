@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "배경 {index}",
     "gui.sharedMessages.costume": "모양 {index}",
     "gui.sharedMessages.sprite": "스프라이트 {index}",
-    "gui.sharedMessages.pop": "팝"
+    "gui.sharedMessages.pop": "팝",
+    "gui.dca.device_connection_section": "Device connection"
 }

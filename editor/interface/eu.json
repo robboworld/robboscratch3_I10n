@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "atzeko oihala{index}",
     "gui.sharedMessages.costume": "tankera{index}",
     "gui.sharedMessages.sprite": "Personaia{index}",
-    "gui.sharedMessages.pop": "pop"
+    "gui.sharedMessages.pop": "pop",
+    "gui.dca.device_connection_section": "Device connection"
 }

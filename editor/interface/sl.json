@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "ozadje{index}",
     "gui.sharedMessages.costume": "preobleka{index}",
     "gui.sharedMessages.sprite": "Lik{index}",
-    "gui.sharedMessages.pop": "poberi"
+    "gui.sharedMessages.pop": "poberi",
+    "gui.dca.device_connection_section": "Device connection"
 }

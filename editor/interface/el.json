@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "υπόβαθρο{index}",
     "gui.sharedMessages.costume": "ενδυμασία{index}",
     "gui.sharedMessages.sprite": "Αντικείμενο{index}",
-    "gui.sharedMessages.pop": "ποπ"
+    "gui.sharedMessages.pop": "ποπ",
+    "gui.dca.device_connection_section": "Device connection"
 }

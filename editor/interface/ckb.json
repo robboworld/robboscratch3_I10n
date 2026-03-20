@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "پاشبنەما{index}",
     "gui.sharedMessages.costume": "بەرگ{index}",
     "gui.sharedMessages.sprite": "تەن{index}",
-    "gui.sharedMessages.pop": "پۆپ"
+    "gui.sharedMessages.pop": "پۆپ",
+    "gui.dca.device_connection_section": "Device connection"
 }

@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "پس زمینه ی {index}",
     "gui.sharedMessages.costume": "لباس {index}",
     "gui.sharedMessages.sprite": "شکلک {index}",
-    "gui.sharedMessages.pop": "ترکاندن"
+    "gui.sharedMessages.pop": "ترکاندن",
+    "gui.dca.device_connection_section": "Device connection"
 }

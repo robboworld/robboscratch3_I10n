@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "cenário{index}",
     "gui.sharedMessages.costume": "fantasia{index}",
     "gui.sharedMessages.sprite": "Ator{index}",
-    "gui.sharedMessages.pop": "saltar"
+    "gui.sharedMessages.pop": "saltar",
+    "gui.dca.device_connection_section": "Device connection"
 }

@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "はいけい{index}",
     "gui.sharedMessages.costume": "コスチューム{index}",
     "gui.sharedMessages.sprite": "スプライト{index}",
-    "gui.sharedMessages.pop": "ポップ"
+    "gui.sharedMessages.pop": "ポップ",
+    "gui.dca.device_connection_section": "Device connection"
 }

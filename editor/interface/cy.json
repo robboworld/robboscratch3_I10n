@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "cefnlen {index}",
     "gui.sharedMessages.costume": "gwisg{index}",
     "gui.sharedMessages.sprite": "Corlun{index}",
-    "gui.sharedMessages.pop": "pop"
+    "gui.sharedMessages.pop": "pop",
+    "gui.dca.device_connection_section": "Device connection"
 }

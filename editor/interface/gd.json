@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "cùlaibh{index}",
     "gui.sharedMessages.costume": "dreach{index}",
     "gui.sharedMessages.sprite": "Sprìd{index}",
-    "gui.sharedMessages.pop": "cnap"
+    "gui.sharedMessages.pop": "cnap",
+    "gui.dca.device_connection_section": "Device connection"
 }

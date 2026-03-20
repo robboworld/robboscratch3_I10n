@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "tło{index}",
     "gui.sharedMessages.costume": "kostium{index}",
     "gui.sharedMessages.sprite": "Duszek{index}",
-    "gui.sharedMessages.pop": "pop"
+    "gui.sharedMessages.pop": "pop",
+    "gui.dca.device_connection_section": "Device connection"
 }

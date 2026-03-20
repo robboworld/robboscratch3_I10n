@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "позадина{index}",
     "gui.sharedMessages.costume": "костим{index}",
     "gui.sharedMessages.sprite": "Лик{index}",
-    "gui.sharedMessages.pop": "поп"
+    "gui.sharedMessages.pop": "поп",
+    "gui.dca.device_connection_section": "Device connection"
 }

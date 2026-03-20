@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "аҿаԥшыра{аиндекс}",
     "gui.sharedMessages.costume": "акостиум{аиндекс}",
     "gui.sharedMessages.sprite": "Анагӡаҩ{аиндекс}",
-    "gui.sharedMessages.pop": "апоп"
+    "gui.sharedMessages.pop": "апоп",
+    "gui.dca.device_connection_section": "Device connection"
 }

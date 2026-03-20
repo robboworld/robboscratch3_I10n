@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "ārai tuarongo{index}",
     "gui.sharedMessages.costume": "kākahu{index}",
     "gui.sharedMessages.sprite": "Parehe{index}",
-    "gui.sharedMessages.pop": "pakō"
+    "gui.sharedMessages.pop": "pakō",
+    "gui.dca.device_connection_section": "Device connection"
 }

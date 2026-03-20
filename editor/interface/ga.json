@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "cúlra{index}",
     "gui.sharedMessages.costume": "culaith{index}",
     "gui.sharedMessages.sprite": "Sprid{index}",
-    "gui.sharedMessages.pop": "pléasc"
+    "gui.sharedMessages.pop": "pléasc",
+    "gui.dca.device_connection_section": "Device connection"
 }

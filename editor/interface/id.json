@@ -417,5 +417,6 @@
     "gui.sharedMessages.backdrop": "latar {index}",
     "gui.sharedMessages.costume": "kostum {index}",
     "gui.sharedMessages.sprite": "Sprite {index}",
-    "gui.sharedMessages.pop": "pop"
+    "gui.sharedMessages.pop": "pop",
+    "gui.dca.device_connection_section": "Device connection"
 }
