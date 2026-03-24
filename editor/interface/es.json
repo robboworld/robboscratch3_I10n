@@ -549,6 +549,8 @@
     "gui.RobboGui.settings_window.fullscreen_quality_performance": "Rendimiento",
     "gui.RobboGui.settings_window.fullscreen_quality_balanced": "Equilibrio",
     "gui.RobboGui.settings_window.fullscreen_quality_quality": "Calidad",
+    "gui.RobboGui.settings_window.experimental_section_title": "Ajustes experimentales",
+    "gui.RobboGui.settings_window.sim_sensor_debug_overlay": "Mostrar superposición de depuración de sensores del simulador",
     "gui.RobboGui.settings_window.motor_settings_tittle": "Ajustes de motores: ",
     "gui.RobboGui.settings_window.set_left_motor_invertion": "Invertir motor izquierdo",
     "gui.RobboGui.settings_window.set_right_motor_invertion": "Invertir motor derecho",

@@ -555,6 +555,8 @@
 	"gui.RobboGui.settings_window.fullscreen_quality_performance": "Արտադրողականություն",
 	"gui.RobboGui.settings_window.fullscreen_quality_balanced": "Հավասարակշռություն",
 	"gui.RobboGui.settings_window.fullscreen_quality_quality": "Որակ",
+	"gui.RobboGui.settings_window.experimental_section_title": "Փորձարարական կարգավորումներ",
+	"gui.RobboGui.settings_window.sim_sensor_debug_overlay": "Ցուցադրել սիմուլյատորի սենսորների debug overlay",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Motor settings: ",
 	"gui.RobboGui.settings_window.set_left_motor_invertion": "Invert left motor",
 	"gui.RobboGui.settings_window.set_right_motor_invertion": "Invert right motor",

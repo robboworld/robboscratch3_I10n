@@ -549,6 +549,8 @@
     "gui.RobboGui.settings_window.fullscreen_quality_performance": "الأداء",
     "gui.RobboGui.settings_window.fullscreen_quality_balanced": "توازن",
     "gui.RobboGui.settings_window.fullscreen_quality_quality": "الجودة",
+    "gui.RobboGui.settings_window.experimental_section_title": "إعدادات تجريبية",
+    "gui.RobboGui.settings_window.sim_sensor_debug_overlay": "إظهار طبقة تصحيح مستشعرات المحاكي",
     "gui.RobboGui.settings_window.motor_settings_tittle": "إعدادات المحرك: ",
     "gui.RobboGui.settings_window.set_left_motor_invertion": "عكس المحرك الأيسر",
     "gui.RobboGui.settings_window.set_right_motor_invertion": "عكس المحرك الأيمن",

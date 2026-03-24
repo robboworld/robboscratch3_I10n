@@ -549,6 +549,8 @@
     "gui.RobboGui.settings_window.fullscreen_quality_performance": "Performanță",
     "gui.RobboGui.settings_window.fullscreen_quality_balanced": "Echilibru",
     "gui.RobboGui.settings_window.fullscreen_quality_quality": "Calitate",
+    "gui.RobboGui.settings_window.experimental_section_title": "Setări experimentale",
+    "gui.RobboGui.settings_window.sim_sensor_debug_overlay": "Afișează overlay debug al senzorilor simulatorului",
     "gui.RobboGui.settings_window.motor_settings_tittle": "Setări motoare: ",
     "gui.RobboGui.settings_window.set_left_motor_invertion": "Inversează motorul stâng",
     "gui.RobboGui.settings_window.set_right_motor_invertion": "Inversează motorul drept",

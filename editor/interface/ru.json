@@ -548,6 +548,8 @@
     "gui.RobboGui.settings_window.fullscreen_quality_performance": "Производительность",
     "gui.RobboGui.settings_window.fullscreen_quality_balanced": "Баланс",
     "gui.RobboGui.settings_window.fullscreen_quality_quality": "Качество",
+    "gui.RobboGui.settings_window.experimental_section_title": "Экспериментальные настройки",
+    "gui.RobboGui.settings_window.sim_sensor_debug_overlay": "Показывать debug-оверлей датчиков симулятора",
     "gui.RobboGui.settings_window.motor_settings_tittle": "Настройки моторов: ",
     "gui.RobboGui.settings_window.set_left_motor_invertion": "Инвертировать левый мотор",
     "gui.RobboGui.settings_window.set_right_motor_invertion": "Инвертировать правый мотор",

@@ -555,6 +555,8 @@
 	"gui.RobboGui.settings_window.fullscreen_quality_performance": "წარმადობა",
 	"gui.RobboGui.settings_window.fullscreen_quality_balanced": "ბალანსი",
 	"gui.RobboGui.settings_window.fullscreen_quality_quality": "ხარისხი",
+	"gui.RobboGui.settings_window.experimental_section_title": "ექსპერიმენტული პარამეტრები",
+	"gui.RobboGui.settings_window.sim_sensor_debug_overlay": "სიმულატორის სენსორების debug overlay-ის ჩვენება",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Motor settings: ",
 	"gui.RobboGui.settings_window.set_left_motor_invertion": "Invert left motor",
 	"gui.RobboGui.settings_window.set_right_motor_invertion": "Invert right motor",

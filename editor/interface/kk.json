@@ -555,6 +555,8 @@
 	"gui.RobboGui.settings_window.fullscreen_quality_performance": "Өнімділік",
 	"gui.RobboGui.settings_window.fullscreen_quality_balanced": "Теңгерім",
 	"gui.RobboGui.settings_window.fullscreen_quality_quality": "Сапа",
+	"gui.RobboGui.settings_window.experimental_section_title": "Эксперименттік параметрлер",
+	"gui.RobboGui.settings_window.sim_sensor_debug_overlay": "Симулятор сенсорларының debug overlay көрсету",
 	"gui.RobboGui.settings_window.motor_settings_tittle": "Мотор параметрлері: ",
 	"gui.RobboGui.settings_window.set_left_motor_invertion": "Сол моторды төңкеру",
 	"gui.RobboGui.settings_window.set_right_motor_invertion": "Оң моторды төңкеру",
