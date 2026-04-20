@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "فُقد الاتصال بالجهاز.",
   "gui.SearchPanel.device_port_error": "خطأ في المنفذ!",
   "gui.SearchPanel.milliseconds": " ملث",
-  "gui.SearchPanel.bluetooth_linux_hint": "نظراً لخصوصيات Linux يجب تشغيل Robbo Scratch 3 كـ root.",
+  "gui.SearchPanel.bluetooth_linux_hint": "نظراً لخصوصيات Linux يجب تشغيل Robbo Scratch كـ root.",
   "gui.SearchPanel.flashing_in_progress": "تنبيه!",
   "gui.SearchPanel.flashing_in_progress_details": "جاري التثبيت",
   "gui.SearchPanel.otto_flash_which_mode": "أي إعدادات برنامج تُستخدم؟",

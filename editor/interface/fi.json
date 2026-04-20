@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "Yhteys laitteeseen katkesi.",
   "gui.SearchPanel.device_port_error": "Porttivirhe!",
   "gui.SearchPanel.milliseconds": " ms",
-  "gui.SearchPanel.bluetooth_linux_hint": "Linuxin vuoksi Robbo Scratch 3 on ajettava root-oikeuksin.",
+  "gui.SearchPanel.bluetooth_linux_hint": "Linuxin vuoksi Robbo Scratch on ajettava root-oikeuksin.",
   "gui.SearchPanel.flashing_in_progress": "Huom.!",
   "gui.SearchPanel.flashing_in_progress_details": "Asennus käynnissä",
   "gui.SearchPanel.otto_flash_which_mode": "Mitä firmware-asetuksia käytetään?",

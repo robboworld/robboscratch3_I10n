@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "Verbindung zum Gerät verloren.",
   "gui.SearchPanel.device_port_error": "Anschlussfehler!",
   "gui.SearchPanel.milliseconds": " ms",
-  "gui.SearchPanel.bluetooth_linux_hint": "Unter Linux muss Robbo Scratch 3 aufgrund systembedingter Einschränkungen als root ausgeführt werden.",
+  "gui.SearchPanel.bluetooth_linux_hint": "Unter Linux muss Robbo Scratch aufgrund systembedingter Einschränkungen als root ausgeführt werden.",
   "gui.SearchPanel.flashing_in_progress": "Hinweis!",
   "gui.SearchPanel.flashing_in_progress_details": "Firmware wird installiert",
   "gui.SearchPanel.otto_flash_which_mode": "Welche Firmware-Einstellungen verwenden?",

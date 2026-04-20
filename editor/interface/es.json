@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "Se perdió la conexión con el dispositivo.",
   "gui.SearchPanel.device_port_error": "¡Error de puerto!",
   "gui.SearchPanel.milliseconds": " ms",
-  "gui.SearchPanel.bluetooth_linux_hint": "Por las particularidades de Linux, Robbo Scratch 3 debe ejecutarse como root.",
+  "gui.SearchPanel.bluetooth_linux_hint": "Por las particularidades de Linux, Robbo Scratch debe ejecutarse como root.",
   "gui.SearchPanel.flashing_in_progress": "¡Atención!",
   "gui.SearchPanel.flashing_in_progress_details": "Grabación en curso",
   "gui.SearchPanel.otto_flash_which_mode": "¿Qué ajustes de firmware usar?",

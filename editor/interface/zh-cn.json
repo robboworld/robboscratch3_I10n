@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "与设备失去连接。",
   "gui.SearchPanel.device_port_error": "端口错误！",
   "gui.SearchPanel.milliseconds": " 毫秒",
-  "gui.SearchPanel.bluetooth_linux_hint": "由于 Linux 特性，Robbo Scratch 3 需以 root 权限运行。",
+  "gui.SearchPanel.bluetooth_linux_hint": "由于 Linux 特性，Robbo Scratch 需以 root 权限运行。",
   "gui.SearchPanel.flashing_in_progress": "注意！",
   "gui.SearchPanel.flashing_in_progress_details": "正在烧录",
   "gui.SearchPanel.otto_flash_which_mode": "使用哪种固件设置？",

@@ -497,7 +497,7 @@
   "gui.SearchPanel.device_connection_lost": "Conexiune pierdută cu dispozitivul.",
   "gui.SearchPanel.device_port_error": "Eroare port!",
   "gui.SearchPanel.milliseconds": " ms",
-  "gui.SearchPanel.bluetooth_linux_hint": "Din cauza particularităților Linux, Robbo Scratch 3 trebuie rulat ca root.",
+  "gui.SearchPanel.bluetooth_linux_hint": "Din cauza particularităților Linux, Robbo Scratch trebuie rulat ca root.",
   "gui.SearchPanel.flashing_in_progress": "Atenție!",
   "gui.SearchPanel.flashing_in_progress_details": "Instalare în curs",
   "gui.SearchPanel.otto_flash_which_mode": "Ce setări de firmware să se folosească?",
