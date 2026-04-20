@@ -599,6 +599,8 @@
   "gui.dca.uno_timeout_bluetooth": "Время переключения в режим поиска Scratchduino (в мс)",
   "gui.RobboMenu.sim_enable": "Включить симуляцию робота",
   "gui.RobboMenu.sim_disable": "Отключить симуляцию робота",
+  "gui.RobboMenu.copter_sim_enable": "Включить симуляцию коптера",
+  "gui.RobboMenu.copter_sim_disable": "Отключить симуляцию коптера",
   "gui.dca.for_bluetooth": "Настройки таймаутов для подключения по блютуз: ",
   "gui.dca.bluetooth_search_enabled": "Поиск по Bluetooth",
   "gui.RobboGui.intervals_for_blocks_chain": "Настройки интервалов выполнения цепочки блоков",

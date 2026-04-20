@@ -599,6 +599,8 @@
   "gui.dca.uno_timeout_bluetooth": "Scrarchduino searching mode timeout (ms)",
   "gui.RobboMenu.sim_enable": "Enable robot simulation",
   "gui.RobboMenu.sim_disable": "Disable robot simulation",
+  "gui.RobboMenu.copter_sim_enable": "Enable copter simulation",
+  "gui.RobboMenu.copter_sim_disable": "Disable copter simulation",
   "gui.dca.for_bluetooth": "Settings for bluetooth timeouts: ",
   "gui.dca.bluetooth_search_enabled": "Bluetooth search",
   "gui.RobboGui.intervals_for_blocks_chain": "Settings for blocks chain timeouts: ",
