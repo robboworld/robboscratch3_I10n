@@ -478,6 +478,7 @@
   "gui.RobboGui.QuadcopterPalette.meters": "метров",
   "gui.RobboGui.QuadcopterPalette.degrees": "градусов",
   "gui.RobboGui.devices_not_found": "Устройств не найдено",
+  "gui.RobboGui.devices_searching": "Поиск…",
   "gui.RobboGui.bluetooth_devices_not_found": "Не обнаружены доступные для подключения блютуз устройства. Обратитесь к инструкции пользователя (FAQ).",
   "gui.RobboGui.bluetooth_searching": "Ищем блютуз устройства",
   "gui.FirmwareFlasherDeviceComponent.device_otto": "Отто",

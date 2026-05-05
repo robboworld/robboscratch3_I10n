@@ -477,6 +477,7 @@
   "gui.RobboGui.QuadcopterPalette.meters": "metriä",
   "gui.RobboGui.QuadcopterPalette.degrees": "astetta",
   "gui.RobboGui.devices_not_found": "Ei laitteita. Jos laite on kytketty, kokeile toista kaapelia tai USB-porttia.",
+  "gui.RobboGui.devices_searching": "Etsitään…",
   "gui.RobboGui.bluetooth_devices_not_found": "Ei Bluetooth-laitteita. Katso käyttöohje (FAQ).",
   "gui.RobboGui.bluetooth_searching": "Etsitään Bluetooth-laitteita",
   "gui.RobboGui.try_to_install_drivers": "Asenna tai päivitä USB-portin ajurit.",

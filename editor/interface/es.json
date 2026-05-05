@@ -477,6 +477,7 @@
   "gui.RobboGui.QuadcopterPalette.meters": "metros",
   "gui.RobboGui.QuadcopterPalette.degrees": "grados",
   "gui.RobboGui.devices_not_found": "No hay dispositivos disponibles. Si ha conectado un dispositivo y sigue viendo este mensaje, pruebe otro cable o puerto USB.",
+  "gui.RobboGui.devices_searching": "Buscando…",
   "gui.RobboGui.bluetooth_devices_not_found": "No hay dispositivos Bluetooth disponibles. Consulte el manual (FAQ).",
   "gui.RobboGui.bluetooth_searching": "Buscando dispositivos Bluetooth",
   "gui.RobboGui.try_to_install_drivers": "Intente instalar o actualizar los controladores del puerto USB.",

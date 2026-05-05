@@ -477,6 +477,7 @@
   "gui.RobboGui.QuadcopterPalette.meters": "метр",
   "gui.RobboGui.QuadcopterPalette.degrees": "градус",
   "gui.RobboGui.devices_not_found": "Қосылатын құрылғы жоқ. Құрылғыны қосқан болсаңыз, басқа кабель немесе USB портын көріңіз.",
+  "gui.RobboGui.devices_searching": "Ізделуде…",
   "gui.RobboGui.bluetooth_devices_not_found": "Bluetooth құрылғылары жоқ. Пайдаланушы нұсқаулығына (FAQ) жүгініңіз.",
   "gui.RobboGui.bluetooth_searching": "Bluetooth құрылғыларын іздеу",
   "gui.RobboGui.try_to_install_drivers": "USB портының драйверлерін орнатыңыз немесе жаңартыңыз.",

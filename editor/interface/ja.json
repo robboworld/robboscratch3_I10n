@@ -477,6 +477,7 @@
   "gui.RobboGui.QuadcopterPalette.meters": "メートル",
   "gui.RobboGui.QuadcopterPalette.degrees": "度",
   "gui.RobboGui.devices_not_found": "接続可能なデバイスがありません。デバイスを接続してもこのメッセージは出る場合、USBコネクターかワイヤーを変更してみてください。",
+  "gui.RobboGui.devices_searching": "検索中…",
   "gui.RobboGui.bluetooth_devices_not_found": "接続可能なブルートゥースデバイスはありません。ユーザーマニュアルを確認してください。（FAQ）",
   "gui.RobboGui.bluetooth_searching": "ブルートゥースデバイスを検索中です。",
   "gui.RobboGui.try_to_install_drivers": "USBポートのドライバをインストールまたは更新してください。",
