@@ -451,7 +451,7 @@
   "gui.RobboGui.LaboratoryPalette.digital": "数字: ",
   "gui.RobboGui.LaboratoryPalette.laboratory": "实验室",
   "gui.RobboGui.QuadcopterPalette.battery_level": "电池电量: ",
-  "gui.RobboGui.QuadcopterPalette.yaw": "偏航: ",
+  "gui.RobboGui.QuadcopterPalette.yaw": "旋转角度: ",
   "gui.RobboGui.QuadcopterPalette.x_coord": "X 坐标: ",
   "gui.RobboGui.QuadcopterPalette.y_coord": "Y 坐标: ",
   "gui.RobboGui.QuadcopterPalette.z_coord": "Z 坐标:  ",

@@ -452,7 +452,7 @@
   "gui.RobboGui.LaboratoryPalette.digital": "Цифровой: ",
   "gui.RobboGui.LaboratoryPalette.laboratory": "Лаборатория",
   "gui.RobboGui.QuadcopterPalette.battery_level": "Уровень заряда батареи: ",
-  "gui.RobboGui.QuadcopterPalette.yaw": "Угол: ",
+  "gui.RobboGui.QuadcopterPalette.yaw": "Угол поворота: ",
   "gui.RobboGui.QuadcopterPalette.x_coord": "X координата: ",
   "gui.RobboGui.QuadcopterPalette.y_coord": "Y координата: ",
   "gui.RobboGui.QuadcopterPalette.z_coord": "Z координата:  ",

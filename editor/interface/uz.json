@@ -451,7 +451,7 @@
   "gui.RobboGui.LaboratoryPalette.digital": "Digital: ",
   "gui.RobboGui.LaboratoryPalette.laboratory": "Laboratory",
   "gui.RobboGui.QuadcopterPalette.battery_level": "Battery level: ",
-  "gui.RobboGui.QuadcopterPalette.yaw": "Yaw: ",
+  "gui.RobboGui.QuadcopterPalette.yaw": "Rotation angle: ",
   "gui.RobboGui.QuadcopterPalette.x_coord": "X coord: ",
   "gui.RobboGui.QuadcopterPalette.y_coord": "Y coord: ",
   "gui.RobboGui.QuadcopterPalette.z_coord": "Z coord:  ",
