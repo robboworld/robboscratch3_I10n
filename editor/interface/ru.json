@@ -208,6 +208,8 @@
   "gui.stageHeader.showRightPanel": "Показать правую панель",
   "gui.gui.hideRightPanel": "Скрыть панель сцены",
   "gui.gui.showRightPanel": "Показать панель сцены",
+  "gui.gui.collapseBlocksPanel": "Скрыть блоки",
+  "gui.gui.expandBlocksPanel": "Показать блоки",
   "gui.spriteSelector.addBackdropFromLibrary": "Выбрать фон",
   "gui.stageSelector.addBackdropFromPaint": "Нарисовать",
   "gui.stageSelector.addBackdropFromSurprise": "Сюрприз",

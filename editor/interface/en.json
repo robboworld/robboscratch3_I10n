@@ -208,6 +208,8 @@
   "gui.stageHeader.showRightPanel": "Show right panel",
   "gui.gui.hideRightPanel": "Hide stage panel",
   "gui.gui.showRightPanel": "Show stage panel",
+  "gui.gui.collapseBlocksPanel": "Hide blocks",
+  "gui.gui.expandBlocksPanel": "Show blocks",
   "gui.spriteSelector.addBackdropFromLibrary": "Choose a Backdrop",
   "gui.stageSelector.addBackdropFromPaint": "Paint",
   "gui.stageSelector.addBackdropFromSurprise": "Surprise",
