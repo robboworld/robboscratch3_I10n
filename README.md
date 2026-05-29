@@ -28,7 +28,7 @@ Never add a key only to a non-English locale; the reference is always English.
 
 ### Partner languages (full localization)
 
-Partner languages are fully aligned with the English key set and have translations for interface and Robbo strings where available: **en**, **ru**, **ro**, **de**, **ar**, **zh-cn**, **ja**, **fi**, and when added: **uz**, **hy**, **ka**. Other locales in the menu keep their existing key set; missing keys fall back to English at runtime.
+Partner languages are fully aligned with the English key set and have translations for interface and Robbo strings where available: **en**, **ru**, **ro**, **de**, **ar**, **es**, **zh-cn**, **ja**, **fi**, and when added: **uz**, **hy**, **ka**, **kk**. Other locales in the menu keep their existing key set; missing keys fall back to English at runtime.
 
 ### Audit script
 
