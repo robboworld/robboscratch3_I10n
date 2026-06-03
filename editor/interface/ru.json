@@ -501,6 +501,7 @@
   "gui.SearchPanel.quadcopter_searching": "Поиск…",
   "gui.SearchPanel.quadcopter_connected": "Подключён",
   "gui.SearchPanel.quadcopter_disconnected": "Не подключён",
+  "gui.SearchPanel.quadcopter_copter_not_found": "Коптер не найден. Включите питание коптера и повторите поиск.",
   "gui.SearchPanel.quadcopter_landing": "Посадка",
   "gui.SearchPanel.quadcopter_lost": "Связь потеряна",
   "gui.SearchPanel.quadcopter_emergency": "Аварийная остановка",

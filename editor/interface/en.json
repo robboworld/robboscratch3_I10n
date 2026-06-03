@@ -498,6 +498,7 @@
   "gui.SearchPanel.quadcopter_searching": "Searching…",
   "gui.SearchPanel.quadcopter_connected": "Connected",
   "gui.SearchPanel.quadcopter_disconnected": "Not connected",
+  "gui.SearchPanel.quadcopter_copter_not_found": "Crazyflie not found. Turn on the copter and try searching again.",
   "gui.SearchPanel.quadcopter_connecting": "Connecting…",
   "gui.SearchPanel.quadcopter_landing": "Landing",
   "gui.SearchPanel.quadcopter_lost": "Link lost",
