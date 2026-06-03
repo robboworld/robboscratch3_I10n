@@ -10,7 +10,8 @@
   },
   "scripts": {
     "build:data": "babel-node scripts/build-data",
-    "build": "npm run clean && npm run build:data && webpack --progress --colors --bail",
+    "build": "npm run build:data && webpack --progress --colors --bail",
+    "build:clean": "npm run clean && npm run build",
     "clean": "rimraf ./dist ./locales && mkdirp dist locales",
     "lint:js": "eslint . --ext .js",
     "lint:json": "jshint -e .json www editor/blocks editor/extensions editor/interface editor/paint-editor",

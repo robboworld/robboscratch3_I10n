@@ -18,6 +18,8 @@ npm run build:data
 
 This generates `locales/editor-msgs.js`, `locales/blocks-msgs.js`, etc. from the JSON files in `editor/interface`, `editor/extensions`, `editor/paint-editor`, and `editor/blocks`. Every locale listed in `src/supported-locales.js` must have a file in each of these components, or the build will fail with "missing locales".
 
+`npm run build` runs `build:data` and webpack without deleting `locales/` first. Use `npm run build:clean` for a full reset of `dist/` and `locales/`.
+
 ### Adding a new string
 
 1. Add the key and **English** value to `editor/interface/en.json` (and to `editor/extensions/en.json` or other component if the string belongs there).
