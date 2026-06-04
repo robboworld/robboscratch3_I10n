@@ -474,6 +474,8 @@
   "gui.RobboMenu.color_sensor_correction5": "Color sensor correction table 5",
   "gui.RobboGui.search_devices": "Search devices",
   "gui.menuBar.robbo_menu": "Robbo menu",
+  "gui.menuBar.show_robbo_ui": "Show ROBBO",
+  "gui.menuBar.hide_robbo_ui": "Hide ROBBO",
   "gui.RobboGui.true": "true",
   "gui.RobboGui.false": "false",
   "gui.RobboGui.update_firm_msg": "Please update  firmware.",
