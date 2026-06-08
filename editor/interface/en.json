@@ -438,6 +438,7 @@
   "gui.FirmwareFlasherComponent.device_serial": "Device serial number",
   "gui.FirmwareFlasherFlashingStatusComponent.flashing_status": "Firmware flashing log",
   "gui.RobboMenu.trigger_firmware_flasher": "Trigger firmware flasher",
+  "gui.ColorCorrectorTable.title": "Color corrector {sensorNumber}",
   "gui.ColorCorrectorTable.close": "Close",
   "gui.ColorCorrectorTable.load": "Load",
   "gui.ColorCorrectorTable.save": "Save",

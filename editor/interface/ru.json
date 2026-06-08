@@ -438,6 +438,7 @@
   "gui.FirmwareFlasherComponent.device_serial": "Серийный номер устройства",
   "gui.FirmwareFlasherFlashingStatusComponent.flashing_status": "Журнал процесса прошивки",
   "gui.RobboMenu.trigger_firmware_flasher": "Перепрошить устройство",
+  "gui.ColorCorrectorTable.title": "Корректор цвета {sensorNumber}",
   "gui.ColorCorrectorTable.close": "Закрыть",
   "gui.ColorCorrectorTable.load": "Загрузить",
   "gui.ColorCorrectorTable.save": "Сохранить",
