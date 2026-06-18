@@ -489,6 +489,8 @@
   "gui.RobboGui.QuadcopterPalette.degrees": "°",
   "gui.RobboGui.devices_not_found": "No devices available for connection. If you have connected the device, but still see this message, try changing the wire or USB connector.",
   "gui.RobboGui.devices_searching": "Searching…",
+  "gui.RobboGui.search_panel_title": "Device search",
+  "gui.RobboGui.devices_not_found_hint": "Check that the device is powered on and connected, then search again.",
   "gui.RobboGui.bluetooth_devices_not_found": "No Bluetooth devices available for connection. See user manual (FAQ).",
   "gui.RobboGui.bluetooth_searching": "Searching for Bluetooth devices",
   "gui.RobboGui.try_to_install_drivers": "Try installing or updating USB port drivers.",
