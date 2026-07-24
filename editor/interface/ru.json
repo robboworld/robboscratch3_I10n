@@ -107,7 +107,7 @@
   "gui.accountMenu.accountSettings": "Настройки аккаунта",
   "gui.accountMenu.signOut": "Выйти",
   "gui.authorInfo.byUser": "от{username}",
-  "gui.menuBar.seeProjectPage": "Посмотреть страницу проекта",
+  "gui.menuBar.seeProjectPage": "Страница проекта",
   "general.username": "Имя пользователя",
   "general.password": "Пароль",
   "general.signIn": "Войти",
