@@ -5,7 +5,6 @@
     "gui.comingSoon.message1": "Ungakhazeni sesikhona siyasebenza {emoji}",
     "gui.comingSoon.message2": "Kuyeza Maduzane...",
     "gui.comingSoon.message3": "Sisebenza kona kuyimanje {emoji}",
-    "paint.paintEditor.fill": "Gcwalisa",
     "paint.paintEditor.costume": "Impahla",
     "paint.paintEditor.group": "Iqembu",
     "paint.paintEditor.ungroup": "Hlukanisa",
@@ -13,7 +12,7 @@
     "paint.paintEditor.redo": "Ukwenzakabusha",
     "paint.paintEditor.forward": "Phambili",
     "paint.paintEditor.backward": "Emuva",
-    "paint.paintEditor.front": "Iphambili",
+    "paint.paintEditor.front": "Phambili",
     "paint.paintEditor.back": "Emuva",
     "paint.paintEditor.more": "Okunye",
     "paint.modeTools.brushSize": "Isisindo",
@@ -21,7 +20,7 @@
     "paint.modeTools.copy": "Khopisha",
     "paint.modeTools.paste": "Namathisela",
     "paint.modeTools.delete": "Susa",
-    "paint.modeTools.curved": "lwalugobile",
+    "paint.modeTools.curved": "Lugobile ",
     "paint.modeTools.pointed": "Iphoyinti",
     "paint.modeTools.thickness": "Ugqinsi",
     "paint.modeTools.flipHorizontal": "Phendula ngokuya emaceleni",
@@ -30,6 +29,7 @@
     "paint.modeTools.outlined": "Kugqamile",
     "paint.paintEditor.bitmap": "Shitsela kuBitmap",
     "paint.paintEditor.vector": "Shitsela kuVector",
+    "paint.paintEditor.fill": "Gcwalisa",
     "paint.paintEditor.stroke": "Kugqamise",
     "paint.brushMode.brush": "Ibhrashi",
     "paint.eraserMode.eraser": "Irabha",
@@ -41,5 +41,5 @@
     "paint.roundedRectMode.roundedRect": "Indingiliza yerectangle",
     "paint.selectMode.select": "Khetha",
     "paint.textMode.text": "Umbhalo",
-    "paint.colorPicker.swap": "Thatha okunye"
+    "paint.colorPicker.swap": "Shitsha "
 }
