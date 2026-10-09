@@ -670,6 +670,8 @@
     "gui.RobboGui.QuadcopterPalette.lostNone": "На других каналах коптеров нет",
     "gui.RobboGui.QuadcopterPalette.lostFound": "{name} на канале {channel}",
     "gui.RobboGui.QuadcopterPalette.adopt": "Перенести в мою группу",
+    "gui.RobboGui.QuadcopterPalette.adopting": "Переносим {name} в вашу группу…",
+    "gui.RobboGui.QuadcopterPalette.adoptFailed": "Не удалось перенести {name} — попробуйте ещё раз",
     "gui.ColorCorrectorTable.bright": "Яркость",
     "gui.RobboMenu.robot_sim": "Симуляция робота",
     "gui.RobboMenu.copter_sim": "Симуляция коптера",

@@ -670,6 +670,8 @@
     "gui.RobboGui.QuadcopterPalette.lostNone": "No copters found on other channels",
     "gui.RobboGui.QuadcopterPalette.lostFound": "{name} on channel {channel}",
     "gui.RobboGui.QuadcopterPalette.adopt": "Move to my group",
+    "gui.RobboGui.QuadcopterPalette.adopting": "Moving {name} to your group…",
+    "gui.RobboGui.QuadcopterPalette.adoptFailed": "Could not move {name} — try again",
     "gui.ColorCorrectorTable.bright": "Bright",
     "gui.RobboMenu.robot_sim": "Robot simulation",
     "gui.RobboMenu.copter_sim": "Copter simulation",
