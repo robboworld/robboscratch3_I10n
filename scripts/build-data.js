@@ -94,6 +94,13 @@ let editorData =
     ';\n';
 fs.writeFileSync(MSGS_DIR + 'editor-msgs.js', editorData);
 
+// Robbo: one JSON per locale, so the GUI can lazy-load a single language instead of bundling all of them
+const EDITOR_DIR = MSGS_DIR + 'editor/';
+mkdirpSync(EDITOR_DIR);
+Object.keys(editorMsgs).forEach((lang) => {
+    fs.writeFileSync(EDITOR_DIR + lang + '.json', JSON.stringify(editorMsgs[lang]));
+});
+
 if (missingLocales.length > 0) {
     process.stdout.write('missing locales:\n' + missingLocales.toString());
     process.exit(1);
