@@ -924,6 +924,7 @@
     "gui.RobboGui.save_support_report": "Save report for support",
     "gui.RobboGui.saving_support_report": "Collecting the report…",
     "gui.RobboGui.support_report_saved": "Report saved: {path}",
+    "gui.RobboGui.support_report_saved_desktop": "Saved to the Desktop: {file}",
     "gui.RobboGui.support_report_downloaded": "Report downloaded. Send the file to support.",
     "gui.RobboGui.support_report_error": "Could not save the report: {message}",
     "gui.RobboGui.show_in_folder": "Show in folder",
