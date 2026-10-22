@@ -923,6 +923,7 @@
     "gui.RobboGui.save_support_report": "Сохранить отчёт для поддержки",
     "gui.RobboGui.saving_support_report": "Собираю отчёт…",
     "gui.RobboGui.support_report_saved": "Отчёт сохранён: {path}",
+    "gui.RobboGui.support_report_saved_desktop": "Сохранён на Рабочем столе: {file}",
     "gui.RobboGui.support_report_downloaded": "Отчёт скачан. Отправьте файл в поддержку.",
     "gui.RobboGui.support_report_error": "Не удалось сохранить отчёт: {message}",
     "gui.RobboGui.show_in_folder": "Показать в папке",
