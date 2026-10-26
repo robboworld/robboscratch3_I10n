@@ -691,6 +691,8 @@
     "gui.RobboGui.QuadcopterPalette.attentionWeakLinkLanding": "Слабая связь — коптер садится",
     "gui.RobboGui.QuadcopterPalette.attentionLandedAfterLinkLoss": "Связь пропадала в полёте — коптер посажен",
     "gui.RobboGui.QuadcopterPalette.attentionLowBatteryLanding": "Батарея разряжена — коптер садится",
+    "gui.RobboGui.CopterSim.batteryEmpty": "Батарея разряжена",
+    "gui.RobboGui.CopterSim.stageEdge": "Дальше край сцены",
     "gui.RobboGui.QuadcopterPalette.attentionReconnecting": "Связь потеряна — ищем коптер…",
     "gui.RobboGui.QuadcopterPalette.readyToFly": "Готов к полёту",
     "gui.RobboGui.QuadcopterPalette.needsAttention": "Требует внимания",
